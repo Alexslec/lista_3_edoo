@@ -101,7 +101,7 @@ class HashTable{
 				}
 			}
 		}
-
+		return 0;
 	}
 
 	//Foi preciso especificar esse operador porque vivia dando erro
